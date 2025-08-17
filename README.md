@@ -5,11 +5,6 @@ Test your memory skills by repeating the sequence of flashing colors as the game
 
 ---
 
-## 🚀 Live Demo
-🔗 [Play the game on GitHub Pages](https://your-username.github.io/simon-says-game/)  
-
----
-
 ## 📸 Screenshot
 ![Simon Says Screenshot](Screenshot.png)  
 
